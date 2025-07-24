@@ -1,15 +1,4 @@
 # SHAWARMA-PAGLU
 SHAWARMA PAGLU WEBSITE
 
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Display Image</title>
-</head>
-<body>
-
-    <h2>My Image</h2>
-    <img src=""C:\Users\Bhavesh shelavale\OneDrive\Pictures\sfg.webp"" alt="shawarma pasglu" width="500" height="auto">
-
-</body>
-</html>
+![Image](https://github.com/user-attachments/assets/fa246d5e-0b1f-4bac-8e5c-49eb18ca6098)
