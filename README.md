@@ -2,7 +2,7 @@
 SHAWARMA PAGLU WEBSITE
 MANAS DESHMUKH
 CONTACT NO:7507147566
-<!-- Uploading "Screenshot_20250721-045230.jpg"... -->
+Screenshot_20250721-045230.jpg
 "VISIT OUR SHOP AS EARLY AS POSIBBLE" 
 ![Image](https://github.com/user-attachments/assets/fa246d5e-0b1f-4bac-8e5c-49eb18ca6098)
 {DIFFERENT DIFFERENT OFFERS ARE WAITING FOR YOU}
