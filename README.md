@@ -9,7 +9,7 @@ SHAWARMA PAGLU WEBSITE
 <body>
 
     <h2>My Image</h2>
-    <img src="https://1drv.ms/u/c/C200BA9B322ED9D2/EWdqozUX4wtHqZ6oQlTZDgABcisuRu3qHv6MM3TT5rvOAQ?e=Bli68V" alt="Description of image" width="500" height="auto">
+    <img src=""C:\Users\Bhavesh shelavale\OneDrive\Pictures\sfg.webp"" alt="shawarma pasglu" width="500" height="auto">
 
 </body>
 </html>
