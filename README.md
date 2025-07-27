@@ -9,7 +9,7 @@ CONTACT NO:7507147566
 
 
 <p align="center">
-  <img src="![Image](https://github.com/user-attachments/assets/b74cf599-facc-46c6-a537-960b24a0d6b8)
+  <img src="![WhatsApp Image 2025-07-21 at 17 23 41_962a1c70](https://github.com/user-attachments/assets/a5a70fde-200e-46f2-94b9-2f5812fcd3d2)
 " alt="right Image" width="400">
 </p>
 
