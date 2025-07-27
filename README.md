@@ -9,7 +9,7 @@ CONTACT NO:7507147566
 
 
 <img src="<img width="786" height="1090" alt="manas" src="https://github.com/user-attachments/assets/7ae46478-9b96-4dab-90b9-d56781292b99" />
-" alt="Description" width="300" height="200">
+" alt="Description" width="50px" height="50px">
 
 
 
