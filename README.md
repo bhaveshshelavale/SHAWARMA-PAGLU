@@ -8,7 +8,9 @@ MANAS DESHMUKH
 CONTACT NO:7507147566
 
 
-![Image](https://github.com/user-attachments/assets/b74cf599-facc-46c6-a537-960b24a0d6b8)"width=300px,height=400px"
+![Image](https://github.com/user-attachments/assets/b74cf599-facc-46c6-a537-960b24a0d6b8)
+alt="Description" width="300" height="200">
+
 
 "VISIT OUR SHOP AS EARLY AS POSIBBLE" 
 
