@@ -2,14 +2,15 @@
 SHAWARMA PAGLU WEBSITE
 
 
-MANAS DESHMUKH
+
+<div align="right">
+  <img src="https://github.com/user-attachments/assets/7ae46478-9b96-4dab-90b9-d56781292b99" alt="manas" width="150px" height="150px"><br>
+  <b>MANAS DESHMUKH</b><br>
+  CONTACT NO: 7507147566
+</div>
 
 
-CONTACT NO:7507147566
 
-
-<img src="<img width="786" height="1090" alt="manas" src="https://github.com/user-attachments/assets/7ae46478-9b96-4dab-90b9-d56781292b99" />
-" alt="Description" width="50px" height="50px">
 
 
 
@@ -20,5 +21,4 @@ CONTACT NO:7507147566
 
 
 {DIFFERENT DIFFERENT OFFERS ARE WAITING FOR YOU}
-<img src="https://github.com/user-attachments/assets/7ae46478-9b96-4dab-90b9-d56781292b99" alt="manas" width="50px" height="50px">
 
